@@ -1,2 +1,2 @@
-# FullPageScroll
-## is a page that contains other pages on which the full page scroll effect was implemented merely by css
+# aModal
+## at first you find a modal that is a Newsletter then there are several pages which are a CSS version of fullpage effect
